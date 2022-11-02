@@ -1,0 +1,33 @@
+apps to install:
+- spectacle
+- docker
+
+shells to use:
+- not fish
+- zsh :+1:
+  - https://jonaustin.dev/cli-part-1-base-zsh-setup/
+
+
+vim things:
+- https://danielmiessler.com/study/vim/#language
+
+
+
+idk fun links?:
+- https://www.freecodecamp.org/news/i-dont-understand-graph-theory-1c96572a1401
+- https://architecturenotes.co/things-you-should-know-about-databases/
+-https://github.com/awslabs/open-data-registry
+https://aws.amazon.com/builders-library/avoiding-insurmountable-queue-backlogs/
+https://towardsdatascience.com/tagged/editors-pick
+https://www.run.ai/guides/machine-learning-engineering/machine-learning-workflow/
+https://towardsdatascience.com/data-science-workflows-notebook-to-production-26afc13442bb
+https://towardsdatascience.com/scraping-the-web-using-beautifulsoup-and-python-5df8e63d9de3
+https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
+https://openai.com/blog/gpt-3-apps/
+https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store.html
+https://www.reddit.com/r/mlops/
+https://www.google.com/search?q=ml+ops+blog&oq=ml+ops+blog&aqs=chrome..69i57j0i10j69i60.2307j0j7&sourceid=chrome&ie=UTF-8
+https://hello.dremio.com/rs/321-ODX-117/images/Top%205%20Best%20Practices%20Plan%2C%20Design%20%26%20Build%20a%20Successful%20Data%20Lake%20on%20AWS.pdf?aliId=eyJpIjoiN2N6OG9Fa0lYSDZrRDZHbSIsInQiOiJrM3o5N3NPN2FFMmd4d3FraFZXVStnPT0ifQ%253D%253D
+https://github.com/aws/amazon-sagemaker-examples
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-target-groups.html
+https://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
